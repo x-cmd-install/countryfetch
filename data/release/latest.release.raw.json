@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:4c15c167dd08c2dea6332e5505f1b2f4b7f2f3cc7e1db6483543feab66d708bd",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2025-06-04T12:39:07Z",
       "updated_at": "2025-06-04T12:39:07Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-aarch64-apple-darwin.tar.xz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20273,
       "digest": "sha256:f8d78998e2958b44135f36817749c1f5778277dc284ca9888a28e4d8aa5c04ce",
-      "download_count": 54,
+      "download_count": 55,
       "created_at": "2025-06-04T12:39:07Z",
       "updated_at": "2025-06-04T12:39:07Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-installer.ps1"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 44933,
       "digest": "sha256:035f92052ff710e8c7ab27072009f1bc29b39b3790d2e9c8bab723efb8dee682",
-      "download_count": 302,
+      "download_count": 303,
       "created_at": "2025-06-04T12:39:07Z",
       "updated_at": "2025-06-04T12:39:07Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-installer.sh"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2942748,
       "digest": "sha256:bc200619607dc318765a6e709f70e28de4d00bc9e455c00b470cf584ddcb0e69",
-      "download_count": 357,
+      "download_count": 358,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-unknown-linux-gnu.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:a9d772437249fb5ad4a3edabab984ce898235d827c5c2b359041d9b188545ee3",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2133,
       "digest": "sha256:0d744e750531250bc3d03911f81be83394597b15b5800de8c53af6d656d30c0b",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch.rb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 20613,
       "digest": "sha256:d7a1667ab7fb0aa4f26d9112d25e3a83d9730db06bdd25e4288c5faf483aa7d4",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/dist-manifest.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 511,
       "digest": "sha256:6e5af486b1ce9b8bcdf8bcbe9e991b56b15b0adc8ca39e1c3c350e38560c993f",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-06-04T12:39:09Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/sha256.sum"
