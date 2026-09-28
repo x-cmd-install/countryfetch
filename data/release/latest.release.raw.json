@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1293540,
       "digest": "sha256:f7f525a9cc0493e5b333a65e540224c8b729dfa9fb22431ed9d070dc5a5a28fd",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:08Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-apple-darwin.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2942748,
       "digest": "sha256:bc200619607dc318765a6e709f70e28de4d00bc9e455c00b470cf584ddcb0e69",
-      "download_count": 358,
+      "download_count": 359,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-unknown-linux-gnu.tar.xz"
