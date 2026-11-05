@@ -25,6 +25,17 @@
   summary: A neofetch-like tool for fetching information about your country
   licenses:
     - MIT
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: countryfetch
+  binname: countryfetch
+  visiblename: countryfetch
+  version: 0.2.0
+  origversion: 0.2.0-3
+  status: newest
+  summary: A neofetch-like tool for fetching information about your country
+  licenses:
+    - MIT
 - repo: aur
   srcname: countryfetch-git
   binname: countryfetch-git
