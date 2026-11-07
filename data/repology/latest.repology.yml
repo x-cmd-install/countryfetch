@@ -1,3 +1,25 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: countryfetch
+  binname: countryfetch
+  visiblename: countryfetch
+  version: 0.2.0
+  origversion: 0.2.0-2
+  status: newest
+  summary: A neofetch-like tool for fetching information about your country
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: countryfetch
+  binname: countryfetch
+  visiblename: countryfetch
+  version: 0.2.0
+  origversion: 0.2.0-2
+  status: newest
+  summary: A neofetch-like tool for fetching information about your country
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: countryfetch
   binnames:
@@ -106,7 +128,7 @@
     - ZLIB
   categories:
     - app-misc
-- repo: manjaro_unstable
+- repo: manjaro_stable
   subrepo: extra
   srcname: countryfetch
   binname: countryfetch
