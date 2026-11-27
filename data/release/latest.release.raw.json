@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1194412,
       "digest": "sha256:333fcd0d755da18a0d35b2944862cc2f4c8f19aac00361b3bdb4d6aec2426419",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2025-06-04T12:39:07Z",
       "updated_at": "2025-06-04T12:39:07Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-aarch64-apple-darwin.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6456096,
       "digest": "sha256:e02dc8ae706864bc406361b08410b8c2c87a628f8e4321a757931c86ae24e0af",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2025-06-04T12:39:07Z",
       "updated_at": "2025-06-04T12:39:08Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-apple-darwin-update"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5430272,
       "digest": "sha256:f03c49dd931f288f947f116094f0fe926caf2921a0cd194f0f5d99bdbf226f83",
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:08Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-pc-windows-msvc-update"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2942748,
       "digest": "sha256:bc200619607dc318765a6e709f70e28de4d00bc9e455c00b470cf584ddcb0e69",
-      "download_count": 454,
+      "download_count": 455,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-unknown-linux-gnu.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:a9d772437249fb5ad4a3edabab984ce898235d827c5c2b359041d9b188545ee3",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2025-06-04T12:39:08Z",
       "updated_at": "2025-06-04T12:39:09Z",
       "browser_download_url": "https://github.com/nik-rev/countryfetch/releases/download/v0.2.0/countryfetch-x86_64-unknown-linux-gnu.tar.xz.sha256"
